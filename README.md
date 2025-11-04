@@ -1,6 +1,6 @@
 # Aplikasi Presensi Online - Frontend
-**Nama:** [Isi namamu]  
-**Kelas:** XI RPL  
+**Nama:** Fadhil Hilmi Muhyiddin Pujianputra  
+**Kelas:** XI RPL  5
 **Tanggal:** 04 November 2025
 
 ## Deskripsi
